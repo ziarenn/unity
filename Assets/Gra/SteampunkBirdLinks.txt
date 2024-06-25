@@ -1,0 +1,4 @@
+Finished example project:
+
+Github: https://github.com/Sygan/SteampunkBird/
+Itch.io: https://sygan.itch.io/steampunk-bird
